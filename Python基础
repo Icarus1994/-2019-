@@ -1,3 +1,7 @@
+
 map实现：哈希表，查找效率为O(1)
+
+集合
 集合添加新元素：set1.add(new_element)
+删除元素：s.remove( x )
 集合查询元素：x in set1,时间复杂度O(1) # 头条面试那天要用set也可以通过x in set1直接判断有无重复元素
